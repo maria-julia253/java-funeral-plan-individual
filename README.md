@@ -31,4 +31,4 @@
  
    This project was executed with the goal of practicing fundamental concepts of the java language,especially repetition and conditional structures, input validation and aritimetic operations.
 
-   > Author: Maria Júlia Viana.
+   Author: Maria Júlia Viana.
