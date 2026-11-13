@@ -25,7 +25,7 @@
   - Fee for dependents up to 64 years of age: R$5,00.
   - Fee for dependents over 64 years of age: R$15,00.
 
-   > Monthly fee = 49.90 + the sum of the individual dependent fees.
+   -> Monthly fee = 49.90 + the sum of the individual dependent fees.
 
    > Educational goal: 
  
