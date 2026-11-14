@@ -42,17 +42,17 @@ public static void main(String[] args){
 
 }
 
-mensalidade = 49.90 + soma;  //Cálculo da mensalidade;
+   mensalidade = 49.90 + soma;  //Cálculo da mensalidade;
 
-System.out.println("\n PLANO FUNERÁRIO:");
-for (int aux = 0; aux < nome.length; aux++) {
+   System.out.println("\n PLANO FUNERÁRIO:");
+   for (int aux = 0; aux < nome.length; aux++) {
 
             System.out.println("Nome do dependente: " + nome[aux]);
             System.out.printf("Taxa até 64 anos: R$ %.2f%n", taxaMenor64[aux]);
             System.out.printf("Taxa acima de 64 anos: R$ %.2f%n", taxaMaior64[aux]);
         }
 
-System.out.printf("\nValor da mensalidade = R$ %.2f%n", mensalidade);
+   System.out.printf("\nValor da mensalidade = R$ %.2f%n", mensalidade);
 
 teclado.close();
 }
